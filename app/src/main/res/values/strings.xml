@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FeedMeClock</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_fed">Fed</string>
+    <string name="action_missed">Missed</string>
+    <string name="title_activity_schedule">Scheduled Feeding</string>
+    <string name="title_activity_log">LogActivity</string>
+    <string name="title_activity_pie_chart">PieChartActivity</string>
+    <string name="title_activity_line_chart">LineChartActivity</string>
+</resources>
